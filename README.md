@@ -16,19 +16,17 @@ The goal of this project is to validate core user flows of an e-commerce platfor
 
 QATask_MariamMohi/
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── pages/ # Page Object classes (HomePage, ProductPage, CartPage)
-│ └── test/
-│ └── java/
-│ └── tests/ # TestNG test classes (ProductSearchTest, AddToCartTest, ValidCheckoutTest)
-├── testng.xml # Test suite definition
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/               # Page Object classes (HomePage, ProductPage, CartPage)
+│   └── test/
+│       └── java/
+│           └── tests/              # TestNG test classes (ProductSearchTest, AddToCartTest, ValidCheckoutTest)
+├── testng.xml                      # Test suite definition
+├── pom.xml                         # Maven dependencies and plugins
+├── report/                         # Copied TestNG HTML report
+└── README.md                       # Project overview and setup instructions
 
-├── pom.xml # Maven dependencies and plugins
-
-├── report/ # Copied TestNG HTML report
-
-└── README.md 
 
 
 ---
