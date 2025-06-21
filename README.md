@@ -14,7 +14,8 @@ The goal of this project is to validate core user flows of an e-commerce platfor
 
 ## Project Structure
 
-``` QATask_MariamMohi/
+```
+QATask_MariamMohi/
 ├── src/
 │   ├── main/
 │   │   └── java/
