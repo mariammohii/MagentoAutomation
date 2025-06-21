@@ -86,7 +86,9 @@ After running the tests, an HTML report is generated and copied to:
 
 ### Report Sample
 
+```
 report/
 ├── index.html
 ├── emailable-report.html
 ├── testng-results.xml
+```
