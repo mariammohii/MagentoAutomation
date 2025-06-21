@@ -23,8 +23,11 @@ QATask_MariamMohi/
 │ └── java/
 │ └── tests/ # TestNG test classes (ProductSearchTest, AddToCartTest, ValidCheckoutTest)
 ├── testng.xml # Test suite definition
+
 ├── pom.xml # Maven dependencies and plugins
+
 ├── report/ # Copied TestNG HTML report
+
 └── README.md 
 
 
